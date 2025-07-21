@@ -1,0 +1,2642 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="lt-ie10 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="lt-ie10 lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="lt-ie10" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+        <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <title>
+
+    Mozilla Brand – Mozilla Dot Design  </title>
+    <link rel="shortcut icon" href="https://mozilla.design/wp-content/themes/mozilla.design.2021/assets/images/favicon-mozilla/favicon.ico"  id="favicon" />
+  <meta name='robots' content='noindex,nofollow' />
+<meta name='robots' content='noindex, nofollow' />
+<meta name="blog-name" content="Mozilla Dot Design" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Mozilla Brand - Mozilla Dot Design" />
+	<meta property="og:url" content="https://mozilla.design/mozilla/" />
+	<meta property="og:site_name" content="Mozilla Dot Design" />
+	<meta property="article:modified_time" content="2022-04-12T15:42:42+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="https://mozilla.design/wp-content/themes/mozilla.design.2021/assets/images/OG_Mozilla.png" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://mozilla.design/mozilla/","url":"https://mozilla.design/mozilla/","name":"Mozilla Brand - Mozilla Dot Design","isPartOf":{"@id":"https://mozilla.design/#website"},"datePublished":"2019-05-16T18:35:18+00:00","dateModified":"2022-04-12T15:42:42+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://mozilla.design/mozilla/"]}]},{"@type":"WebSite","@id":"https://mozilla.design/#website","url":"https://mozilla.design/","name":"Mozilla Dot Design","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mozilla.design/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//blog.mozilla.org' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://mozilla.design/wp-includes/css/dist/block-library/style.min.css?ver=6.3.5' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--heading: #212529;--wp--preset--color--light-yellow: #ffff98;--wp--preset--color--lemon-yellow: #fff44f;--wp--preset--color--light-blue: #00ddff;--wp--preset--color--neon-blue: #00ffff;--wp--preset--color--warm-red: #ff4f5e;--wp--preset--color--neon-green: #54ffbd;--wp--preset--color--dark-purple: #6e008b;--wp--preset--color--dark-green: #005E5E;--wp--preset--color--dark-blue: #00458b;--wp--preset--color--dark-grey: #959595;--wp--preset--color--light-grey: #e7e5e2;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--xs: 12px;--wp--preset--font-size--sm: 14px;--wp--preset--font-size--lg: 18px;--wp--preset--font-size--h-xxxs: 16px;--wp--preset--font-size--h-xxs: 20px;--wp--preset--font-size--h-xs: 24px;--wp--preset--font-size--h-sm: 32px;--wp--preset--font-size--h-md: 40px;--wp--preset--font-size--h-lg: 48px;--wp--preset--font-size--h-xl: 56px;--wp--preset--font-size--h-xxl: 64px;--wp--preset--font-size--h-mega: 152px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='style-css' href='https://mozilla.design/wp-content/themes/mozilla.design.2021/assets/css/style.css?ver=1686919482' type='text/css' media='screen' />
+<link rel='stylesheet' id='server-css' href='https://mozilla.design/wp-content/themes/mozilla.design.2021/assets/css/server.css?ver=1686919482' type='text/css' media='screen' />
+<script type='text/javascript' src='https://blog.mozilla.org/wp-content/mu-plugins/mozilla-custom/ga-snippet.js?ver=.4' id='ga-snippet-js'></script>
+<link rel="https://api.w.org/" href="https://mozilla.design/wp-json/" /><link rel="alternate" type="application/json" href="https://mozilla.design/wp-json/wp/v2/pages/234" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mozilla.design/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://mozilla.design/?p=234' />
+<link rel="alternate" type="application/json+oembed" href="https://mozilla.design/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmozilla.design%2Fmozilla%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mozilla.design/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmozilla.design%2Fmozilla%2F&#038;format=xml" />
+<link rel="icon" href="https://mozilla.design/files/2019/06/moz-fav-bw-rgb.png" sizes="32x32" />
+<link rel="icon" href="https://mozilla.design/files/2019/06/moz-fav-bw-rgb.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mozilla.design/files/2019/06/moz-fav-bw-rgb.png" />
+<meta name="msapplication-TileImage" content="https://mozilla.design/files/2019/06/moz-fav-bw-rgb.png" />
+</head>
+
+<body class="page-template page-template-page-brand-landing page-template-page-brand-landing-php page page-id-234 page-parent nojs parent--mozilla">
+    <header class="page-section page-section--site-header site-header" role="banner">
+    <div class="d-lg-block page-section page-section--quick-links quick-links" role="navigation">
+  <div class="container-fluid">
+    <div class="row d-flex">
+              <div class="col-lg-6 col-12">
+
+              <h2 class="title type--ff-h-lg">
+                                                    <noscript>
+                    <img src="https://mozilla.design/files/2019/06/Fx-Wordmark.png" alt="Firefox" />
+                  </noscript>
+                  <img class="lazyload" data-src="https://mozilla.design/files/2019/06/Fx-Wordmark.png" alt="Firefox" />
+                              </h2>
+            <div class="additional-assets d-flex flex-wrap">
+                              <div class="additional-asset col-12">
+                                    <a href="https://github.com/chrismsimpson/Metropolis" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/Aa.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/Aa.png" data-srcset="" alt="" />
+                        </div>
+                                              Metropolis                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--link"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://github.com/rsms/inter" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/resources_inter.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/resources_inter.png" data-srcset="" alt="" />
+                        </div>
+                                              Inter                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--link"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/Firefox-Parent-Brand.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/10/logo-firefox.svg" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/10/logo-firefox.svg" data-srcset="" alt="" />
+                        </div>
+                                              Firefox Parent Brand                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/Firefox-Logomark.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/Glyph.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/Glyph.png" data-srcset="https://mozilla.design/files/2019/06/Glyph.png 244w, https://mozilla.design/files/2019/06/Glyph-150x150.png 150w" alt="" />
+                        </div>
+                                              Firefox Logomark                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/10/Firefox-Browser-Logo-Assets.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/10/Fx-Browser-icon-fullColor-512.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/10/Fx-Browser-icon-fullColor-512.png" data-srcset="https://mozilla.design/files/2019/10/Fx-Browser-icon-fullColor-512.png 512w, https://mozilla.design/files/2019/10/Fx-Browser-icon-fullColor-512-150x150.png 150w, https://mozilla.design/files/2019/10/Fx-Browser-icon-fullColor-512-300x300.png 300w" alt="" />
+                        </div>
+                                              Firefox Browser                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/10/Firefox-Browser-Beta-Logo-Assets.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/10/Fx-Browser-Beta-icon-fullColor-512.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/10/Fx-Browser-Beta-icon-fullColor-512.png" data-srcset="https://mozilla.design/files/2019/10/Fx-Browser-Beta-icon-fullColor-512.png 512w, https://mozilla.design/files/2019/10/Fx-Browser-Beta-icon-fullColor-512-150x150.png 150w, https://mozilla.design/files/2019/10/Fx-Browser-Beta-icon-fullColor-512-300x300.png 300w" alt="" />
+                        </div>
+                                              Firefox Beta                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/10/Firefox-Browser-Developer-Logo-Assets.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/10/Fx-Browser-Developer-icon-fullColor-512.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/10/Fx-Browser-Developer-icon-fullColor-512.png" data-srcset="https://mozilla.design/files/2019/10/Fx-Browser-Developer-icon-fullColor-512.png 512w, https://mozilla.design/files/2019/10/Fx-Browser-Developer-icon-fullColor-512-150x150.png 150w, https://mozilla.design/files/2019/10/Fx-Browser-Developer-icon-fullColor-512-300x300.png 300w" alt="" />
+                        </div>
+                                              Firefox Developer Edition                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/Firefox-Reality.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/10/Fx-Browser-Reality-icon-fullColor-512.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/10/Fx-Browser-Reality-icon-fullColor-512.png" data-srcset="https://mozilla.design/files/2019/10/Fx-Browser-Reality-icon-fullColor-512.png 512w, https://mozilla.design/files/2019/10/Fx-Browser-Reality-icon-fullColor-512-150x150.png 150w, https://mozilla.design/files/2019/10/Fx-Browser-Reality-icon-fullColor-512-300x300.png 300w" alt="" />
+                        </div>
+                                              Firefox Reality                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/10/Firefox-Browser-Nightly-Logo-Assets.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/10/Fx-Browser-Nightly-icon-fullColor-512.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/10/Fx-Browser-Nightly-icon-fullColor-512.png" data-srcset="https://mozilla.design/files/2019/10/Fx-Browser-Nightly-icon-fullColor-512.png 512w, https://mozilla.design/files/2019/10/Fx-Browser-Nightly-icon-fullColor-512-150x150.png 150w, https://mozilla.design/files/2019/10/Fx-Browser-Nightly-icon-fullColor-512-300x300.png 300w" alt="" />
+                        </div>
+                                              Firefox Nightly                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/Firefox-Lockwise.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/Logo.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/Logo.png" data-srcset="https://mozilla.design/files/2019/06/Logo.png 450w, https://mozilla.design/files/2019/06/Logo-150x150.png 150w, https://mozilla.design/files/2019/06/Logo-300x300.png 300w" alt="" />
+                        </div>
+                                              Firefox Lockwise                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/Firefox-Monitor.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/Monitor_icon-939x1024.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/Monitor_icon-939x1024.png" data-srcset="https://mozilla.design/files/2019/06/Monitor_icon.png 1582w, https://mozilla.design/files/2019/06/Monitor_icon-275x300.png 275w, https://mozilla.design/files/2019/06/Monitor_icon-768x837.png 768w, https://mozilla.design/files/2019/06/Monitor_icon-939x1024.png 939w" alt="" />
+                        </div>
+                                              Firefox Monitor                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/Firefox-Send.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/send_logo.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/send_logo.png" data-srcset="https://mozilla.design/files/2019/06/send_logo.png 498w, https://mozilla.design/files/2019/06/send_logo-300x295.png 300w" alt="" />
+                        </div>
+                                              Firefox Send                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                              </div>
+
+          </div>
+                <div class="col-lg-6 col-12">
+
+              <h2 class="title type--ff-h-lg type--mz-h-lg">
+                                                    <noscript>
+                    <img src="https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-1024x293.png" alt="Mozilla" />
+                  </noscript>
+                  <img class="lazyload" data-src="https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-1024x293.png" alt="Mozilla" />
+                              </h2>
+            <div class="additional-assets d-flex flex-wrap">
+                              <div class="additional-asset col-12">
+                                    <a href="https://github.com/rsms/inter" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/resources_inter.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/resources_inter.png" data-srcset="" alt="" />
+                        </div>
+                                              Inter                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--link"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://github.com/mozilla/zilla-slab" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/Resources-zilla.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/Resources-zilla.png" data-srcset="" alt="" />
+                        </div>
+                                               Zilla Slab                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--link"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://fonts.google.com/specimen/Zilla+Slab" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/Resources-zilla.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/Resources-zilla.png" data-srcset="" alt="" />
+                        </div>
+                                               Zilla Slab                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--link"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://design.firefox.com/photon/" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2022/04/photo-design-system.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2022/04/photo-design-system.png" data-srcset="" alt="" />
+                        </div>
+                                              Photo Design System                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--link"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://protocol.mozilla.org/" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2022/04/protocol-design-system.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2022/04/protocol-design-system.png" data-srcset="" alt="" />
+                        </div>
+                                              Protocol Design System                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--link"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://blog.mozilla.org/opendesign/" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon ">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2022/04/mozilla-open-design.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2022/04/mozilla-open-design.png" data-srcset="https://mozilla.design/files/2022/04/mozilla-open-design.png 630w, https://mozilla.design/files/2022/04/mozilla-open-design-300x48.png 300w" alt="" />
+                        </div>
+                                                                  </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--link"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/Mozilla-logo-BW-RGB.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-1024x293.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-1024x293.png" data-srcset="https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb.png 2000w, https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-300x86.png 300w, https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-768x220.png 768w, https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-1024x293.png 1024w" alt="" />
+                        </div>
+                                              Mozilla Logo Black and White                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/Onecolorblack.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/moz-logo-black.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/moz-logo-black.png" data-srcset="https://mozilla.design/files/2019/06/moz-logo-black.png 1000w, https://mozilla.design/files/2019/06/moz-logo-black-300x86.png 300w, https://mozilla.design/files/2019/06/moz-logo-black-768x220.png 768w" alt="" />
+                        </div>
+                                              Mozilla Logo Black                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/Onecolorwhite.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/moz-logo-white.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/moz-logo-white.png" data-srcset="https://mozilla.design/files/2019/06/moz-logo-white.png 1000w, https://mozilla.design/files/2019/06/moz-logo-white-300x86.png 300w, https://mozilla.design/files/2019/06/moz-logo-white-768x220.png 768w" alt="" />
+                        </div>
+                                              Mozilla Logo White                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                                <div class="additional-asset col-12">
+                                    <a href="https://mozilla.design/files/2019/06/MozillaSocialLogosandFavicons.zip" class="prevent d-flex align-items-center justify-space-between">
+
+                    <div class="name type--sm">
+                                              <div class="icon with-separator">
+                          <noscript>
+                            <img src="https://mozilla.design/files/2019/06/moz-fav-bw-rgb.png" alt="" />
+                          </noscript>
+                          <img class="lazyload" data-src="https://mozilla.design/files/2019/06/moz-fav-bw-rgb.png" data-srcset="" alt="" />
+                        </div>
+                                              Mozilla Social Logos and Favicons                    </div>
+                    
+                    <div class="filetype type--sm">
+                                              <i class="icon icon--download"></i>
+                                            </div>
+                    </a>
+                  </div>
+                              </div>
+
+          </div>
+              </div>
+    </div>
+  </div>
+    <div class="container-fluid">
+
+      <div class="background ff-bg">
+        <div class="brand-interactive firefox-interactive">
+  <iframe scrolling='no' class="lazyload" title="Firefox Animation" data-src="https://mozilla.design/wp-content/themes/mozilla.design.2021/assets/interactives/firefox-anim/demo/index-no-text.html" style="border:0" frameboder="0" border="0" scrolling="no"></iframe>
+</div>
+      </div>
+      <div class="background mz-bg">
+        <div class="brand-interactive mozilla-interactive">
+  <noscript>
+    <img src="https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-1024x614.png" alt="Mozilla Brand" />
+  </noscript>
+  <img class="lazyload fallback" data-sizes="auto" data-src="https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-1024x614.png" data-srcset="https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header.png 2500w, https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-300x180.png 300w, https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-768x461.png 768w, https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-1024x614.png 1024w" alt="Mozilla Brand" />
+
+  </div>
+      </div>
+      <div class="update-content">
+        <div class="row d-flex align-items-lg-center justify-content-between">
+          <div class="col-auto">
+            <h1 class="type--ff-h-xxxs type--ff-mb-h-xxs"><a href="https://mozilla.design" class="">mozilla dot design</a></h1>
+          </div>
+
+
+          <div class="col d-none d-lg-flex type--ff-h-xxxs justify-content-center">
+            <div class="desktop-nav">
+              <ul id="menu-primary-navigation" class="menu"><li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="https://mozilla.design/firefox/">Firefox Brand</a></li>
+<li id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-234 current_page_item menu-item-256"><a href="https://mozilla.design/mozilla/" aria-current="page">Mozilla Brand</a></li>
+<li id="menu-item-2216" class="quick-links-toggle menu-item menu-item-type-custom menu-item-object-custom menu-item-2216"><a href="#">Quick Links</a></li>
+</ul>            </div>
+          </div>
+
+          <div class="col-auto text-right d-none d-lg-block">
+            <a href="#" class="type--ff-h-xxxs quick-links-toggle">Quick Links</a>
+          </div>
+          <div class="col-auto d-block d-lg-none">
+            <a href="#mobile-nav-toggle" class="mobile-nav-toggle">
+              <i class="icon icon--bars"><span class="sr-only">Toggle Menu</span></i>
+            </a>
+          </div>
+        </div>
+  </div>
+</div>
+
+<div class="mobile-sub-nav ">
+              <div class="row mobile-interior-section-nav open">
+          <div class="col-12 type--h-xxs visible-links">
+              <ul class="section-nav-menu-links type--h-xxs">
+                                  <li><a class=""href="https://mozilla.design/mozilla/#about"><span class="count">01</span><span class="link-title">About</span></a></li>
+                                  <li><a class=""href="https://mozilla.design/mozilla/#personality"><span class="count">02</span><span class="link-title">Personality</span></a></li>
+                                  <li><a class=""href="https://mozilla.design/mozilla/#logo-usage"><span class="count">03</span><span class="link-title">Logo &amp; Usage</span></a></li>
+                                  <li><a class=""href="https://mozilla.design/mozilla/#color"><span class="count">04</span><span class="link-title">Color</span></a></li>
+                                  <li><a class=""href="https://mozilla.design/mozilla/#visuals"><span class="count">05</span><span class="link-title">Visuals</span></a></li>
+                                  <li><a class=""href="https://mozilla.design/mozilla/#typography"><span class="count">06</span><span class="link-title">Typography</span></a></li>
+                              </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<div class="mobile-nav type--ff-h-xxs">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12">
+        <ul id="menu-primary-navigation-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-250"><a href="https://mozilla.design/firefox/">Firefox Brand</a>
+<ul class="sub-menu">
+	<li id="menu-item-2218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2218"><a href="https://mozilla.design/firefox/#about"><span>01</span>About</a></li>
+	<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="https://mozilla.design/firefox/#personality"><span>02</span>Personality</a></li>
+	<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a title="						" href="https://mozilla.design/firefox/#logos-usage"><span>03</span>Logos &amp; Usage</a></li>
+	<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a title="						" href="https://mozilla.design/firefox/#color"><span>04</span>Color</a></li>
+	<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a title="						" href="https://mozilla.design/firefox/#visuals"><span>05</span>Visuals</a></li>
+	<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a title="						" href="https://mozilla.design/firefox/#typography"><span>06</span>Typography</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-234 current_page_item menu-item-has-children menu-item-256"><a href="https://mozilla.design/mozilla/" aria-current="page">Mozilla Brand</a>
+<ul class="sub-menu">
+	<li id="menu-item-2225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2225"><a href="https://mozilla.design/mozilla/#about"><span>01</span>About</a></li>
+	<li id="menu-item-2226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2226"><a href="https://mozilla.design/mozilla/#personality"><span>02</span>Personality</a></li>
+	<li id="menu-item-2227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2227"><a href="https://mozilla.design/mozilla/#logo-usage"><span>03</span>Logo &amp; Usage</a></li>
+	<li id="menu-item-2228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2228"><a href="https://mozilla.design/mozilla/#color"><span>04</span>Color</a></li>
+	<li id="menu-item-2229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2229"><a href="https://mozilla.design/mozilla/#visuals"><span>05</span>Visuals</a></li>
+	<li id="menu-item-2230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2230"><a href="https://mozilla.design/mozilla/#typography"><span>06</span>Typography</a></li>
+</ul>
+</li>
+<li class="quick-links-toggle menu-item menu-item-type-custom menu-item-object-custom menu-item-2216"><a href="#">Quick Links</a></li>
+</ul>      </div>
+    </div>
+  </div>
+</div>
+
+</header>
+<div data-barba="wrapper">
+  <div class="barba-container" data-barba="container" data-barba-namespace="brand">
+    
+
+
+
+
+    <div id="content" role="main" class="page-section--main">
+      <div class="transition-content transition-out">
+
+<div class="interior-page-wrap">
+  <div class="section-nav col-xl-3 col-lg-4">
+  <div class="section-nav-menu type--h-sm type--mb-h-xxs">
+    <ul class="section-nav-menu-links">
+              <li>
+            <a class=""
+              href="https://mozilla.design/mozilla/#about">
+              <span class="count">01</span><span class="link-title">About</span>
+            </a>
+          </li>
+              <li>
+            <a class=""
+              href="https://mozilla.design/mozilla/#personality">
+              <span class="count">02</span><span class="link-title">Personality</span>
+            </a>
+          </li>
+              <li>
+            <a class=""
+              href="https://mozilla.design/mozilla/#logo-usage">
+              <span class="count">03</span><span class="link-title">Logo &amp; Usage</span>
+            </a>
+          </li>
+              <li>
+            <a class=""
+              href="https://mozilla.design/mozilla/#color">
+              <span class="count">04</span><span class="link-title">Color</span>
+            </a>
+          </li>
+              <li>
+            <a class=""
+              href="https://mozilla.design/mozilla/#visuals">
+              <span class="count">05</span><span class="link-title">Visuals</span>
+            </a>
+          </li>
+              <li>
+            <a class=""
+              href="https://mozilla.design/mozilla/#typography">
+              <span class="count">06</span><span class="link-title">Typography</span>
+            </a>
+          </li>
+        </ul>
+  </div>
+</div>
+  <div class="page-section page-section--brand-interactive brand-interactive">
+        <div class="brand-interactive mozilla-interactive">
+  <noscript>
+    <img src="https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-1024x614.png" alt="Mozilla Brand" />
+  </noscript>
+  <img class="lazyload fallback" data-sizes="auto" data-src="https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-1024x614.png" data-srcset="https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header.png 2500w, https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-300x180.png 300w, https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-768x461.png 768w, https://mozilla.design/files/2019/06/Mozilla-Brand-Page-Header-1024x614.png 1024w" alt="Mozilla Brand" />
+
+  </div>
+        <div class="container-fluid">
+              <div class="row w-100">
+        <div class="col-12 col-xxl-9 col-xl-9 col-lg-8 force-max-width">
+        <div class="row d-flex w-100">
+          <div class="col offset-xl-1">
+            <h1 class="type--mz-h-mega--highlight type--mz-mb-h-mega--highlight extra-lh">moz://a<br>&#8202;brand&#8202;</h1>
+          </div>
+        </div>
+        </div>
+        </div>
+          </div>
+  </div>
+  <div class="page-body" data-section-url="https://mozilla.design/mozilla/">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12 col-xxl-9 col-xl-9 col-lg-8 force-max-width">
+
+  <section class="brand-page-section" id="about">
+    
+<div class="wp-block-group page-section page-section--page-intro page-intro is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns row d-flex align-items-center is-layout-flex wp-container-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-xl-11 offset-xl-1 col-lg-12 offset-lg-0 page-intro--title type--h-xxl type--mb-h-md is-layout-flow wp-block-column-is-layout-flow">
+<p class="count">01</p>
+
+
+
+<h1 class="type--h-xxl type--mb-h-md wp-block-heading">About</h1>
+
+
+
+<p class="tagline has-light-yellow-color has-text-color">Mozilla fights for the internet</p>
+</div>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-8 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-lg">Who.</p>
+
+
+
+<p class="type--lg">These guidelines are for anyone using the Mozilla brand for any marketing, communications, or inter-company messaging. Approved brand assets, instructions, and brand samples will help set you up for success.</p>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-8 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-lg">Why.</p>
+
+
+
+<p class="type--lg">These guidelines are for anyone using the Mozilla brand for any marketing, communications, or inter-company messaging. Approved brand assets, instructions, and brand samples will help set you up for success.</p>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-9 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xl">Dos &amp; Don’ts</p>
+
+
+
+<p class="type--lg">Here are some general guidelines for using Mozilla brand assets in practice. Use the logos, colors, typefaces, and approved artwork found in the assets section. Please refrain from manipulating or recreating any the approved brand artwork.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-12 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs">Do</p>
+
+
+
+<p>Do follow all guidelines and utilize all resources and approved assets.</p>
+
+
+
+<p>Do respect the original arrangement, spacing, colors with all brand assets so they are displayed consistently and uniformly.</p>
+
+
+
+<p>Do maintain the shape, structure, and integrity of each brand asset.</p>
+
+
+
+<p>Do use assets at recommended sizes and ensure when used small they are clear and legible.</p>
+
+
+
+<p>Do reach out to our brand team or FAQ section if you have any questions or uncertainty.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs">Don’t</p>
+
+
+
+<p>Don’t modify or attempt to recreate any Mozilla brand assets in any way.</p>
+
+
+
+<p>Don’t use any brand assets sourced from anywhere except approved the brand guidelines library downloads section.</p>
+
+
+
+<p>Don’t use the Mozilla brand, logo, or brand partnerships to represent anything that contradicts our brand values.</p>
+
+
+
+<p>Don’t use the Mozilla logo in place of the word Mozilla in a sentence.</p>
+
+
+
+<p>Don’t use the Mozilla logo in any way that makes it the largest or most prominent element on the page. Our logo speaks volumes at small sizes.</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+  </section>
+  <section class="brand-page-section" id="personality">
+    
+<div class="wp-block-group page-section page-section--page-intro page-intro is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns row d-flex align-items-center is-layout-flex wp-container-14 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-xl-10 offset-xl-1 col-lg-12 offset-lg-0 page-intro--title type--h-xxl type--mb-h-md is-layout-flow wp-block-column-is-layout-flow">
+<p class="count">02</p>
+
+
+
+<h1 class="type--h-xxl type--mb-h-md wp-block-heading">Personality</h1>
+
+
+
+<p class="tagline has-light-blue-color has-text-color">Because every brand needs words to live by</p>
+</div>
+</div>
+</div></div>
+
+
+
+<p class="type--h-mega d-none d-md-block has-warm-red-color has-text-color" style="font-size:150px">Opinion-<br>ated</p>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-17 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-10 col-lg-7 offset-2 offset-lg-5 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-sm has-h-sm-font-size">Mozilla acts on its values and bucks convention</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="type--h-mega d-none d-md-block has-warm-red-color has-text-color" style="font-size:150px">Optimistic</p>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-19 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-10 col-lg-7 offset-2 offset-lg-5 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-sm has-h-sm-font-size">Mozilla is optimistic about the future Internet.</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="type--h-mega d-none d-md-block has-warm-red-color has-text-color" style="font-size:150px">Human</p>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-21 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-10 col-lg-7 offset-2 offset-lg-5 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-sm has-h-sm-font-size">Mozilla is in it for people, not profit.</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="type--h-mega d-none d-md-block has-warm-red-color has-text-color" style="font-size:150px">Open</p>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-23 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-10 col-lg-7 offset-2 offset-lg-5 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-sm has-h-sm-font-size">Mozilla practices transparency and participation.</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-25 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<h2 class="has-h-lg-font-size wp-block-heading">What Brand Personality Means for Design</h2>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-lg-font-size">Our brand personality guides the creative process for design so that we may effectively and consistently represent Mozilla everywhere we work.</p>
+</div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-28 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-large"><img decoding="async" src="https://mozilla.design/files/2019/06/dino-human-2.gif" alt=""/></figure>
+
+
+
+<p class="has-h-md-font-size">Human</p>
+
+
+
+<p class="has-lg-font-size">We are about the human experience first and foremost. Design should lead with empathy; sound and feel human; and connect to the greater goals and emotions we strive for.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-large"><img decoding="async" src="https://mozilla.design/files/2019/06/open.gif" alt=""/></figure>
+
+
+
+<p class="has-h-md-font-size">Open</p>
+
+
+
+<p class="has-lg-font-size">Experiences and designs should invite users to learn, participate and act. Keep things open, iterative and identify clear actions.</p>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-31 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="800" height="600" src="http://blog.mozilla.org/design/files/2019/06/boombox-2.gif" alt="" class="wp-image-591"/></figure>
+
+
+
+<p class="has-h-md-font-size">Opinionated</p>
+
+
+
+<p class="has-lg-font-size">Create experiences and designs that get to the heart of the problem. Put the core content front and center. Give the user a clear and concrete experience.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="600" src="http://blog.mozilla.org/design/files/2019/06/bullseye-2.gif" alt="" class="wp-image-592"/></figure>
+
+
+
+<p class="has-h-md-font-size">Optimistic</p>
+
+
+
+<p class="has-lg-font-size">Create experiences and designs that help users imagine the creative future of the internet. Be playful, be weird, appeal to the imagination.</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+  </section>
+  <section class="brand-page-section" id="logo-usage">
+    
+<div class="wp-block-group page-section page-section--page-intro page-intro is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns row d-flex align-items-center is-layout-flex wp-container-33 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-xl-9 offset-xl-1 col-lg-12 offset-lg-0 page-intro--title type--h-xxl type--mb-h-md is-layout-flow wp-block-column-is-layout-flow">
+<p class="count">03</p>
+
+
+
+<h1 class="type--h-xxl type--mb-h-md wp-block-heading">Logo &amp; Usage</h1>
+
+
+
+<p class="tagline has-neon-green-color has-text-color">With the internet at its core</p>
+</div>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-36 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-lg-font-size">The internet is a modular tool and in that spirit we created a modular identity. We built our logo from a single pixel, seen in the colon, and used highlighted type inspired by programming language. Both of these elements form the building blocks of the internet. By baking them into the foundation of our logo, we have inserted that original creative and maker spirit into our system and our brand.</p>
+
+
+
+<p><strong>PLEASE NOTE THAT THE MOZILLA LOGO CONSISTS OF THE WORD INSIDE A SURROUNDING RECTANGLE</strong>. Do not use the word&nbsp; alone as the logo. If you intend to use the logo on black or a dark color, please choose the version of the logo with the white rectangle so that the entire logo, including the rectangle, is visible.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-49 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group asset is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-group thumbnail is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-large content"><img decoding="async" width="1024" height="293" src="http://blog.mozilla.org/design/files/2019/06/mozilla-logo-bw-rgb-1024x293.png" alt="" class="wp-image-1415" srcset="https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-1024x293.png 1024w, https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-300x86.png 300w, https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb-768x220.png 768w, https://mozilla.design/files/2019/06/mozilla-logo-bw-rgb.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div></div>
+
+
+
+<div class="wp-block-group text-wrap is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p class="text text--download type--ff-sm">Primary use – Black and white logo</p>
+</div></div>
+
+
+
+<p class="link has-white-color has-text-color">         <a href="https://mozilla.design/files/2019/06/Mozilla-logo-BW-RGB.zip">Link</a>     </p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group asset is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-group thumbnail is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full content"><img decoding="async" loading="lazy" width="1000" height="286" src="http://blog.mozilla.org/design/files/2019/06/moz-logo-black.png" alt="" class="wp-image-1425" srcset="https://mozilla.design/files/2019/06/moz-logo-black.png 1000w, https://mozilla.design/files/2019/06/moz-logo-black-300x86.png 300w, https://mozilla.design/files/2019/06/moz-logo-black-768x220.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+</div></div>
+
+
+
+<div class="wp-block-group text-wrap is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p class="text text--download type--ff-sm">Limited Use – One-color black logo</p>
+</div></div>
+
+
+
+<p class="link has-white-color has-text-color">         <a href="https://mozilla.design/files/2019/06/Onecolorblack.zip">Link</a>     </p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group asset is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-group thumbnail is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full content"><img decoding="async" loading="lazy" width="1000" height="287" src="http://blog.mozilla.org/design/files/2019/06/moz-logo-white.png" alt="" class="wp-image-1426" srcset="https://mozilla.design/files/2019/06/moz-logo-white.png 1000w, https://mozilla.design/files/2019/06/moz-logo-white-300x86.png 300w, https://mozilla.design/files/2019/06/moz-logo-white-768x220.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+</div></div>
+
+
+
+<div class="wp-block-group text-wrap is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p class="text text--download type--ff-sm">Limited Use – One-color white logo</p>
+</div></div>
+
+
+
+<p class="link has-white-color has-text-color">         <a href="https://mozilla.design/files/2019/06/Onecolorwhite.zip">Link</a>     </p>
+</div></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-group asset is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-group text-wrap is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p class="text text--download type--ff-sm">Social media icons and favicons</p>
+</div></div>
+
+
+
+<p class="link has-white-color has-text-color">         <a href="https://mozilla.design/files/2019/06/MozillaSocialLogosandFavicons.zip">Link</a>     </p>
+</div></div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Typing out the logo</h2>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-53 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p><meta charset="utf-8">The logo can be typed out using our font Zilla Slab Highlight. It’s available as an Open Source font on GitHub and Google Fonts. Simply type out “Mozilla” or “mozilla” using the bold weight, and the logo will appear.</p>
+</div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-56 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="700" height="216" src="http://blog.mozilla.org/design/files/2019/06/Mozilla_Logo_Static.png" alt="" class="wp-image-806" srcset="https://mozilla.design/files/2019/06/Mozilla_Logo_Static.png 700w, https://mozilla.design/files/2019/06/Mozilla_Logo_Static-300x93.png 300w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption>Static</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="700" height="216" src="http://blog.mozilla.org/design/files/2019/06/Mozilla_Logo_Animation.gif" alt="" class="wp-image-807"/><figcaption>Typed Out</figcaption></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Logo usage</h2>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-59 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Clear space</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>To ensure our logo maintains legibility and integrity, always presereve a minimum clear between the logo and other elements.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-large is-resized standard-section w-100"><img decoding="async" loading="lazy" src="https://mozilla.design/files/2019/06/Mz_Logo_Clear-space-1.png" alt="" width="392" height="201"/></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-62 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Minimum Size</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Our logo is bold enough to be legible at even small sizes, but it should never appear smaller than the minimum size shown here for screen and print.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="359" height="98" src="http://blog.mozilla.org/design/files/2019/06/minimum-1.png" alt="" class="wp-image-1537" srcset="https://mozilla.design/files/2019/06/minimum-1.png 359w, https://mozilla.design/files/2019/06/minimum-1-300x82.png 300w" sizes="(max-width: 359px) 100vw, 359px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-65 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Scaling proportionally</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>The proportions of the logo should never be altered. To resize an approved logo or other asset from our library hold down the shift key when scaling to maintain the correct proportions.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="370" height="149" src="http://blog.mozilla.org/design/files/2019/06/scaling-1.png" alt="" class="wp-image-1538" srcset="https://mozilla.design/files/2019/06/scaling-1.png 370w, https://mozilla.design/files/2019/06/scaling-1-300x121.png 300w" sizes="(max-width: 370px) 100vw, 370px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-68 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Co-branding</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>When placing our logo next to other logos in horizontal or vertical orientation attempt to make all logos appear visually equivalent, with appropriate and visually consistent spacing.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="547" height="273" src="http://blog.mozilla.org/design/files/2019/06/co-branding-1.png" alt="" class="wp-image-1533" srcset="https://mozilla.design/files/2019/06/co-branding-1.png 547w, https://mozilla.design/files/2019/06/co-branding-1-300x150.png 300w" sizes="(max-width: 547px) 100vw, 547px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-71 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Background colors</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Our primary logo (white type contained in a black rectangle ) should be used over most backgrounds.&nbsp;<strong>Do not use this logo on black or dark backgrounds!</strong>&nbsp;For darker backgrounds where the black rectangle may not be legible please use the logo with the white rectangle. The logo&nbsp;<strong>must always include</strong>&nbsp;the surrounding rectangle. Typing the word “Moz://a” using the Zilla font does not constitute our logo.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="484" height="315" src="http://blog.mozilla.org/design/files/2019/06/Background2-1.png" alt="" class="wp-image-1532" srcset="https://mozilla.design/files/2019/06/Background2-1.png 484w, https://mozilla.design/files/2019/06/Background2-1-300x195.png 300w" sizes="(max-width: 484px) 100vw, 484px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-74 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Spelling out our brand name</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>When using our brand name in a sentence please spell out the word Mozilla with a capital “M”. Place the logo somewhere else on the page, and only use the logo in one location per layout.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="500" height="250" src="http://blog.mozilla.org/design/files/2019/06/Spelling.png" alt="" class="wp-image-833" srcset="https://mozilla.design/files/2019/06/Spelling.png 500w, https://mozilla.design/files/2019/06/Spelling-300x150.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:240px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Improper logo usage</h2>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-77 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="572" height="107" src="http://blog.mozilla.org/design/files/2019/06/DoNot_1-1.png" alt="" class="wp-image-1534" srcset="https://mozilla.design/files/2019/06/DoNot_1-1.png 572w, https://mozilla.design/files/2019/06/DoNot_1-1-300x56.png 300w" sizes="(max-width: 572px) 100vw, 572px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Never alter or manipulate our logo in any way. Only use approved brand assets in all cases.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="592" height="107" src="http://blog.mozilla.org/design/files/2019/06/DoNot_2-1.png" alt="" class="wp-image-1535" srcset="https://mozilla.design/files/2019/06/DoNot_2-1.png 592w, https://mozilla.design/files/2019/06/DoNot_2-1-300x54.png 300w" sizes="(max-width: 592px) 100vw, 592px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Never attempt to use a different typeface within a black box. Don’t add shadows or any other effects to the logo.</p>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-80 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="577" height="140" src="http://blog.mozilla.org/design/files/2019/06/DoNot_3-1.png" alt="" class="wp-image-1536" srcset="https://mozilla.design/files/2019/06/DoNot_3-1.png 577w, https://mozilla.design/files/2019/06/DoNot_3-1-300x73.png 300w" sizes="(max-width: 577px) 100vw, 577px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Never skew the logo at an angle, stretch or compress the logo, or obscure the legibility of the logo in any way.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="575" height="185" src="http://blog.mozilla.org/design/files/2019/06/DoNot_4.png" alt="" class="wp-image-838" srcset="https://mozilla.design/files/2019/06/DoNot_4.png 575w, https://mozilla.design/files/2019/06/DoNot_4-300x97.png 300w" sizes="(max-width: 575px) 100vw, 575px" /></figure>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>Do not use the primary black and white logo on a dark background that obscures the legibility of the containing shape.</strong>&nbsp;Do not use the primary black and white logo on an overly busy photographic background. Do not use the one color white logo with black or any other color type within the containing shape.</p>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-83 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs">Logo do’s</p>
+
+
+
+<p>Do place official logo files within your design.</p>
+
+
+
+<p>The letters and surrounding rectangle makeup the logo and must always appear together.</p>
+
+
+
+<p>Do make sure the logo has enough contrast with the background.</p>
+
+
+
+<p>Do place the logo on a non-busy area within a photo.</p>
+
+
+
+<p>Do make sure you always have the highlight and the letters present.</p>
+
+
+
+<p>When you’re making a sentence with the word Mozilla, make sure to spell out the full word and not rely on the graphic.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs">Logo don’ts</p>
+
+
+
+<p>Do not make your own logo.</p>
+
+
+
+<p>Do not use the word Mozilla without its surrounding box.</p>
+
+
+
+<p>Do not use the black rectangle version on dark backgrounds; use the white rectangle version in that case.</p>
+
+
+
+<p>Do not remove the highlight from the letters, ever.</p>
+
+
+
+<p>Do not change the color of the logo, ever.</p>
+
+
+
+<p>Do not place the logo on a busy background.</p>
+
+
+
+<p>Do not add any elements to the logo.</p>
+
+
+
+<p>Do not change any element of the logo–the letter nor the highlight shape around them.</p>
+
+
+
+<p>Do not make sentences with the logo inside.</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Logo lockup</h2>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-85 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Primary logo lockup</p>
+
+
+
+<p>When pairing the logo in a lockup always use Zilla SemiBold placed flush left above the wordmark. This is the recommended and primary setting for most products, projects, initiatives, partnerships, open standards, teams, internal products, communities, and events.</p>
+
+
+
+<p>The recommended arrangement places our logo below the text in such a way that the brand can fully support the relationship as a platform.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-88 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-large w-100"><img decoding="async" src="https://mozilla.design/files/2019/06/Lockup-1Box-1.png" alt=""/></figure>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-1 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full is-resized w-100"><img decoding="async" loading="lazy" src="http://blog.mozilla.org/design/files/2019/06/Lockup-1B_Box-1.png" alt="" class="wp-image-1552" width="352" height="352" srcset="https://mozilla.design/files/2019/06/Lockup-1B_Box-1.png 352w, https://mozilla.design/files/2019/06/Lockup-1B_Box-1-150x150.png 150w, https://mozilla.design/files/2019/06/Lockup-1B_Box-1-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-90 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Limited use lockup with icon</p>
+
+
+
+<p>In certain rare instances your logo lockup will have to be arranged with an icon. If your design assets include associated iconography we still encourage the use of the Primary logo lockup while using the icon elsewhere on the page. If it is not possible to use the icon elsewhere as part of your layout then the icon can be added directly to the left of the top line of text. Please follow the sizing specifications to the right.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-93 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full is-resized w-100"><img decoding="async" loading="lazy" src="http://blog.mozilla.org/design/files/2019/06/Lockup-2Box.png" alt="" class="wp-image-1558" width="352" height="352" srcset="https://mozilla.design/files/2019/06/Lockup-2Box.png 352w, https://mozilla.design/files/2019/06/Lockup-2Box-150x150.png 150w, https://mozilla.design/files/2019/06/Lockup-2Box-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-1 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="352" height="352" src="http://blog.mozilla.org/design/files/2019/06/Lockup-2B-Box.png" alt="" class="wp-image-1559" srcset="https://mozilla.design/files/2019/06/Lockup-2B-Box.png 352w, https://mozilla.design/files/2019/06/Lockup-2B-Box-150x150.png 150w, https://mozilla.design/files/2019/06/Lockup-2B-Box-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-95 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Limited use lockup with secondary text</p>
+
+
+
+<p>In very rare cases your logo lockup will require a second level of text beneath the main text. The secondary text should be set in Zilla Slab Regular and sized to 3/5 the height of the logo. This is the only use case where the logo will sit stop the supporting text and therefore it is not recommended unless absolutely necessary. Please follow all size and spacing specifications and do not add any additional elements to this arrangement, or use this lockup without a secondary level of typography.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-98 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="352" height="352" src="http://blog.mozilla.org/design/files/2019/06/Lockup-3Box-2.png" alt="" class="wp-image-1557" srcset="https://mozilla.design/files/2019/06/Lockup-3Box-2.png 352w, https://mozilla.design/files/2019/06/Lockup-3Box-2-150x150.png 150w, https://mozilla.design/files/2019/06/Lockup-3Box-2-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-1 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="352" height="352" src="http://blog.mozilla.org/design/files/2019/06/Lockup-3B-Box-2.png" alt="" class="wp-image-1555" srcset="https://mozilla.design/files/2019/06/Lockup-3B-Box-2.png 352w, https://mozilla.design/files/2019/06/Lockup-3B-Box-2-150x150.png 150w, https://mozilla.design/files/2019/06/Lockup-3B-Box-2-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Mozilla icon</h2>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-100 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p><span style="font-size: revert; letter-spacing: 0px;">The Mozilla icon uses the iconic “m” from our logo. They follow the same rules as the logo: they appear with a black box and white lettering.</span></p>
+</div>
+</div>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-104 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="700" height="700" src="http://blog.mozilla.org/design/files/2019/06/2color-icon.png" alt="" class="wp-image-864" srcset="https://mozilla.design/files/2019/06/2color-icon.png 700w, https://mozilla.design/files/2019/06/2color-icon-150x150.png 150w, https://mozilla.design/files/2019/06/2color-icon-300x300.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h5 class="has-h-xxxs-font-size wp-block-heading">Primary use</h5>
+
+
+
+<p>two-color black and white icon.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="700" height="700" src="http://blog.mozilla.org/design/files/2019/06/oneColor-black-icon.png" alt="" class="wp-image-865" srcset="https://mozilla.design/files/2019/06/oneColor-black-icon.png 700w, https://mozilla.design/files/2019/06/oneColor-black-icon-150x150.png 150w, https://mozilla.design/files/2019/06/oneColor-black-icon-300x300.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h5 class="has-h-xxxs-font-size wp-block-heading">Limited use</h5>
+
+
+
+<p>one-color black icon.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="700" height="700" src="http://blog.mozilla.org/design/files/2019/06/white-icon.png" alt="" class="wp-image-866" srcset="https://mozilla.design/files/2019/06/white-icon.png 700w, https://mozilla.design/files/2019/06/white-icon-150x150.png 150w, https://mozilla.design/files/2019/06/white-icon-300x300.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+
+
+
+<h5 class="has-h-xxxs-font-size wp-block-heading">Limited use</h5>
+
+
+
+<p>one-color white icon.</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><meta charset="utf-8"></p>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Icon usage</h2>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-107 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Icon size</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>The Mozilla icon is reserved for social media applications, favicons, and in specific instances where the full Mozilla logo does not work due to size or format.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="352" height="352" src="http://blog.mozilla.org/design/files/2019/06/IconDo_1_square-1.png" alt="" class="wp-image-1546" srcset="https://mozilla.design/files/2019/06/IconDo_1_square-1.png 352w, https://mozilla.design/files/2019/06/IconDo_1_square-1-150x150.png 150w, https://mozilla.design/files/2019/06/IconDo_1_square-1-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-110 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Clear Space</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>To ensure our logo maintains legibility and integrity, always presereve a minimum clear between the logo and other elements.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="352" height="352" src="http://blog.mozilla.org/design/files/2019/06/IconDo_2_square-1.png" alt="" class="wp-image-1547" srcset="https://mozilla.design/files/2019/06/IconDo_2_square-1.png 352w, https://mozilla.design/files/2019/06/IconDo_2_square-1-150x150.png 150w, https://mozilla.design/files/2019/06/IconDo_2_square-1-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-113 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Minimum Size</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>The icon is bold enough to be legible at even small sizes, but it should never appear smaller than the minimum size shown here for screen and and in limited cases print.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full w-100"><img decoding="async" loading="lazy" width="352" height="217" src="http://blog.mozilla.org/design/files/2019/06/IconDo_3_square-1.png" alt="" class="wp-image-1548" srcset="https://mozilla.design/files/2019/06/IconDo_3_square-1.png 352w, https://mozilla.design/files/2019/06/IconDo_3_square-1-300x185.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Improper usage</h2>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-116 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="352" height="352" src="http://blog.mozilla.org/design/files/2019/06/IconDoNot_1_square-1.png" alt="" class="wp-image-1549" srcset="https://mozilla.design/files/2019/06/IconDoNot_1_square-1.png 352w, https://mozilla.design/files/2019/06/IconDoNot_1_square-1-150x150.png 150w, https://mozilla.design/files/2019/06/IconDoNot_1_square-1-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Never alter or manipulate our icon in any way. Only use approved brand assets in all cases.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="352" height="352" src="http://blog.mozilla.org/design/files/2019/06/IconDoNot_2_square-1.png" alt="" class="wp-image-1550" srcset="https://mozilla.design/files/2019/06/IconDoNot_2_square-1.png 352w, https://mozilla.design/files/2019/06/IconDoNot_2_square-1-150x150.png 150w, https://mozilla.design/files/2019/06/IconDoNot_2_square-1-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Never attempt to use a different m within a black box. Don’t add shadows or any other effects to the logo.</p>
+</div>
+</div>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-118 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="352" height="352" src="http://blog.mozilla.org/design/files/2019/06/IconDoNot_3_square-1.png" alt="" class="wp-image-1551" srcset="https://mozilla.design/files/2019/06/IconDoNot_3_square-1.png 352w, https://mozilla.design/files/2019/06/IconDoNot_3_square-1-150x150.png 150w, https://mozilla.design/files/2019/06/IconDoNot_3_square-1-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Never skew the icon at an angle, stretch or compress the icon, or obscure the legibility of the icon in any way.</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Spelling out Mozilla</h2>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-120 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-h-sm-font-size">Logo usage and expressing our logo in text</p>
+
+
+
+<p>Our logo lockups never include qualifying language, like supported by, by, from, or in partnership with. The logo placement below the name shows that Mozilla is supporting the project. Qualifying language for all projects should be used only in copy, when the name of the project is written out, not in the naming lockup.</p>
+
+
+
+<p>We should not rush to strip the Mozilla name off projects where others are involved simply because others are contributing. Part of what Mozilla stands for is being open, for the benefit of all. We should work toward an understanding that if you see the Mozilla logo on a project, it doesn’t preclude us working with others or inviting collaboration.</p>
+</div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-123 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs">Do</p>
+
+
+
+<p>Do spell out our brand name Mozilla in the same type size and type setting as the content that immediately surrounds it.</p>
+
+
+
+<p>Do capitalize the “M” in Mozilla when typing it out, unless it is part of a web address.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs">Don’t</p>
+
+
+
+<p>Don’t change the spelling of Mozilla, substitute typographic characters for symbols, pluralize our brand name, or abbreviate it in any way.</p>
+
+
+
+<p>Don’t use the Mozilla logo in place of the name “Mozilla”, always spell the name out.</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Expressing our brand in copy</h2>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-126 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs has-h-xs-font-size">A Mozilla Creation</p>
+
+
+
+<p>Place our brand name first in copy for a product, tool, service, project, or resource created by Mozilla. This ordering shows the strongest association with the Mozilla brand.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs has-h-xs-font-size">A Mozilla Product</p>
+
+
+
+<p>In cases where a product, application, or service needs more independence than provided by previous options use this arrangement.</p>
+</div>
+</div>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-129 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs has-h-xs-font-size">Projects by Mozilla</p>
+
+
+
+<p>Project names precede our brand name, along with other tools, services, resources, or assets created by Mozilla.</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="type--h-xs has-h-xs-font-size">Supported by Mozilla</p>
+
+
+
+<p>This presentation can be used for partnerships such as grants we are making with teams or partners who create the majority of the work.</p>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p></p>
+  </section>
+  <section class="brand-page-section" id="color">
+    
+<div class="wp-block-group page-section page-section--page-intro page-intro is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns row d-flex align-items-center is-layout-flex wp-container-131 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-xl-9 offset-xl-1 col-lg-12 offset-lg-0 page-intro--title type--h-xxl type--mb-h-md is-layout-flow wp-block-column-is-layout-flow">
+<p class="count">04</p>
+
+
+
+<h1 class="type--h-xxl type--mb-h-md wp-block-heading">Color</h1>
+
+
+
+<p class="tagline has-dark-green-color has-text-color">It’s all here in black and white</p>
+</div>
+</div>
+</div></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Primary Colors</h2>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-135 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Black.svg" alt="" class="wp-image-1047"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Black</h5>
+
+
+
+<p>#000000<br>RGB: 0 / 0 / 0<br>CMYK: 30 / 20 / 20 / 100</p>
+</div>
+
+
+
+<div class="wp-block-column col col-lg-5 offset-none offset-lg-2 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/White.svg" alt="" class="wp-image-1039"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">White</h5>
+
+
+
+<p>#FFFFFF<br>RGB: 255 / 255 / 255<br>CMYK: 0 / 0 / 0 / 0</p>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-139 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-6 col-lg-3 offset-3 offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Neon-blue.svg" alt="" class="wp-image-1070"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Neon Blue</h5>
+
+
+
+<p>Pantone: 2197 C/U<br>CMYK: 54 / 00 / 12 / 0<br>RGB: 0 / 255 / 255<br>HEX: #00ffff</p>
+</div>
+
+
+
+<div class="wp-block-column col-6 col-lg-3 offset-3 offset-lg-1 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Lemon-yellow.svg" alt="" class="wp-image-1068"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Lemon Yellow</h5>
+
+
+
+<p>Pantone: Yellow C/U<br>CMYK: 0 / 0 / 81 / 0<br>RGB: 255 / 244 / 79<br>HEX: fff44f</p>
+</div>
+
+
+
+<div class="wp-block-column col-6 col-lg-3 offset-3 offset-lg-1 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Warm-red.svg" alt="" class="wp-image-1072"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Warm Red</h5>
+
+
+
+<p>Pantone: 178 C/U<br>CMYK: 0 / 80 / 47 / 0<br>RGB: 255 / 79 / 94<br>HEX: ff4f5e</p>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-142 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-6 col-lg-3 offset-3 offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Neon-green.svg" alt="" class="wp-image-1071"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Neon Green</h5>
+
+
+
+<p>Pantone: 3375 C/U<br>CMYK: 78 / 0 / 42 / 0<br>RGB: 84 / 255 / 189<br>HEX: #54ffbd</p>
+</div>
+
+
+
+<div class="wp-block-column col-6 col-lg-3 offset-3 offset-lg-1 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Dark-purple.svg" alt="" class="wp-image-1067"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Dark Purple</h5>
+
+
+
+<p>Pantone: 2603 C/U<br>CMYK: 63 / 84 / 0 / 30<br>RGB: 110 / 0 / 139<br>HEX: #6e008b</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Secondary Colors</h2>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-146 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-6 col-lg-3 offset-3 offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Dark-green.svg" alt="" class="wp-image-1065"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Dark Green</h5>
+
+
+
+<p>Pantone: 7721 C/U<br>CMYK: 100 / 0 / 41 / 48<br>RGB: 0 / 94 / 94<br>HEX: #005e5e</p>
+</div>
+
+
+
+<div class="wp-block-column col-6 col-lg-3 offset-3 offset-lg-1 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Dark-blue.svg" alt="" class="wp-image-1064"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Dark Blue</h5>
+
+
+
+<p>Pantone: 661 C/U<br>CMYK: 87 / 16 / 0 / 52<br>RGB: 0 / 69 / 139<br>HEX: #00458b</p>
+</div>
+
+
+
+<div class="wp-block-column col-6 col-lg-3 offset-3 offset-lg-1 text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Dark-grey.svg" alt="" class="wp-image-1066"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Dark Grey</h5>
+
+
+
+<p>Pantone: Black 0961 C/U<br>CMYK: 49 / 31 / 33 / 0<br>RGB: 149 / 149 / 149<br>HEX: #959595</p>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-148 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-6 col-lg-3 offset-3 offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Light-grey.svg" alt="" class="wp-image-1069"/></figure>
+
+
+
+<h5 class="mb-0 has-h-xxxs-font-size wp-block-heading">Light Grey</h5>
+
+
+
+<p>Pantone: 420 C/U<br>CMYK: 20 / 12 / 13 / 0<br>RGB: 231 / 229 / 226<br>HEX: #e7e5e2</p>
+</div>
+</div>
+
+
+
+<div style="height:180px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Color Combinations</h2>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-150 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-lg-font-size">Black and white swatches are the main grounding hues to the color palette. The darker hues and the neutral greys from the secondary palette are there to add harmony and balance to the primary color palette. When choosing a color scheme for a project, the colors from the primary color palette are the core and lead colors with the secondary palette adding support. As a starting point, we have put together examples of successful pairings below.</p>
+</div>
+</div>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-sm-font-size wp-block-heading">Working with a white background</h2>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-153 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-White-1.svg" alt="" class="wp-image-1058"/></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-White-2.svg" alt="" class="wp-image-1059"/></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-White-3.svg" alt="" class="wp-image-1060"/></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-White-4.svg" alt="" class="wp-image-1061"/></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-White-5.svg" alt="" class="wp-image-1062"/></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-White-6.svg" alt="" class="wp-image-1063"/></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-sm-font-size wp-block-heading">Working with a black background</h2>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-156 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-Black-1.svg" alt="" class="wp-image-1052"/></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-Black-2.svg" alt="" class="wp-image-1053"/></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-Black-3.svg" alt="" class="wp-image-1054"/></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-Black-4.svg" alt="" class="wp-image-1055"/></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-Black-5.svg" alt="" class="wp-image-1056"/></figure>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="http://blog.mozilla.org/design/files/2019/06/Combination-Black-6.svg" alt="" class="wp-image-1057"/></figure>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+  </section>
+  <section class="brand-page-section" id="visuals">
+    
+<div class="wp-block-group page-section page-section--page-intro page-intro is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns row d-flex align-items-center is-layout-flex wp-container-158 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-xl-9 offset-xl-1 col-lg-12 offset-lg-0 page-intro--title type--h-xxl type--mb-h-md is-layout-flow wp-block-column-is-layout-flow">
+<p class="count">05</p>
+
+
+
+<h1 class="type--h-xxl type--mb-h-md wp-block-heading">Visuals</h1>
+
+
+
+<p class="tagline has-warm-red-color has-text-color">Illustrating the story of the web</p>
+</div>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-161 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-lg-font-size">The following visuals are not to be used without permission from Mozilla.</p>
+</div>
+</div>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1600" height="477" src="https://mozilla.design/files/2019/06/1UCs_Ln2SD4TSTWUtv2fKB4FFnvzHrrqP7oDDO9HyLg.png" alt="" class="wp-image-1722" srcset="https://mozilla.design/files/2019/06/1UCs_Ln2SD4TSTWUtv2fKB4FFnvzHrrqP7oDDO9HyLg.png 1600w, https://mozilla.design/files/2019/06/1UCs_Ln2SD4TSTWUtv2fKB4FFnvzHrrqP7oDDO9HyLg-300x89.png 300w, https://mozilla.design/files/2019/06/1UCs_Ln2SD4TSTWUtv2fKB4FFnvzHrrqP7oDDO9HyLg-768x229.png 768w, https://mozilla.design/files/2019/06/1UCs_Ln2SD4TSTWUtv2fKB4FFnvzHrrqP7oDDO9HyLg-1024x305.png 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1600" height="444" src="https://mozilla.design/files/2019/06/1AaXWBsmPMhN2UiU7vl_E-GynciCrkQE7ot78346R-g.png" alt="" class="wp-image-1720" srcset="https://mozilla.design/files/2019/06/1AaXWBsmPMhN2UiU7vl_E-GynciCrkQE7ot78346R-g.png 1600w, https://mozilla.design/files/2019/06/1AaXWBsmPMhN2UiU7vl_E-GynciCrkQE7ot78346R-g-300x83.png 300w, https://mozilla.design/files/2019/06/1AaXWBsmPMhN2UiU7vl_E-GynciCrkQE7ot78346R-g-768x213.png 768w, https://mozilla.design/files/2019/06/1AaXWBsmPMhN2UiU7vl_E-GynciCrkQE7ot78346R-g-1024x284.png 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1600" height="666" src="https://mozilla.design/files/2019/06/1NzOeQ_s5AsDoXFPmE2qm3g2rSyohXdlssjM-n9-hbQ.png" alt="" class="wp-image-1721" srcset="https://mozilla.design/files/2019/06/1NzOeQ_s5AsDoXFPmE2qm3g2rSyohXdlssjM-n9-hbQ.png 1600w, https://mozilla.design/files/2019/06/1NzOeQ_s5AsDoXFPmE2qm3g2rSyohXdlssjM-n9-hbQ-300x125.png 300w, https://mozilla.design/files/2019/06/1NzOeQ_s5AsDoXFPmE2qm3g2rSyohXdlssjM-n9-hbQ-768x320.png 768w, https://mozilla.design/files/2019/06/1NzOeQ_s5AsDoXFPmE2qm3g2rSyohXdlssjM-n9-hbQ-1024x426.png 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+  </section>
+  <section class="brand-page-section" id="typography">
+    
+<div class="wp-block-group page-section page-section--page-intro page-intro is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns row d-flex align-items-center is-layout-flex wp-container-163 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col col-xl-10 offset-xl-1 col-lg-12 offset-lg-0 page-intro--title type--h-xxl type--mb-h-md is-layout-flow wp-block-column-is-layout-flow">
+<p class="count">06</p>
+
+
+
+<h1 class="type--h-xxl type--mb-h-md wp-block-heading">Typography</h1>
+
+
+
+<p class="tagline has-dark-purple-color has-text-color">A font made for Mozilla (and everyone)</p>
+</div>
+</div>
+</div></div>
+
+
+
+<h3 class="has-h-sm-font-size wp-block-heading">Our official brand typeface is</h3>
+
+
+
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<div class="col col-lg offset-none offset-lg-none standard-section">
+
+    <div class="text wysiwyg-content">
+        <div class="type-controls">
+            <div class="select-wrap input">
+                <select>
+                                            <option  value="zillaslab-light">Zilla Slab Light</option>
+                                            <option  value="zillaslab-lightitalic">Zilla Slab Light Italic</option>
+                                            <option  value="zillaslab-regular">Zilla Slab Regular</option>
+                                            <option selected value="zillaslab-regularitalic">Zilla Slab Regular Italic</option>
+                                            <option  value="zillaslab-medium">Zilla Slab Medium</option>
+                                            <option  value="zillaslab-mediumitalic">Zilla Slab Medium Italic</option>
+                                            <option  value="zillaslab-semibold">Zilla Slab SemiBold</option>
+                                            <option  value="zillaslab-semibolditalic">Zilla Slab SemiBold Italic</option>
+                                            <option  value="zillaslab-bold">Zilla Slab Bold</option>
+                                            <option  value="zillaslab-bolditalic">Zilla Slab Bold Italic</option>
+                                            <option  value="zillaslabhighlight-bold">Zilla Slab Highlight Bold</option>
+                                            <option  value="zillaslabhighlight-regular">Zilla Slab Highlight Regular</option>
+                                    </select>
+            </div>
+            <div class="range-select input">
+                <div class="range-wrap">
+                <input type="range" value="200" min="1" max="200">
+                </div>
+                <span class="value">200px</span>
+            </div>
+        </div>
+        <div class="type-output zillaslab-regularitalic" style="font-size: 200px;">
+            <p><span style="color: #ffff98">Zilla Slab</span></p>
+        </div>
+    </div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row mb-5 is-layout-flex wp-container-166 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-9 offset-none offset-lg-none text-content is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-lg-font-size">Zilla Slab is a casual and contemporary slab serif with a good amount of quirk. We’ve made it open source for everyone to use.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-group asset is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-group text-wrap is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p class="text text--link type--ff-sm">Learn about the making of Zilla</p>
+</div></div>
+
+
+
+<p class="link has-white-color has-text-color">         <a href="https://blog.mozilla.org/opendesign/zilla-slab-common-language-shared-font/">Link</a>     </p>
+</div></div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Try it out yourself</h2>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-181 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group asset is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-group thumbnail is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full content"><img decoding="async" loading="lazy" width="234" height="132" src="http://blog.mozilla.org/design/files/2019/05/type-export-2.png" alt="" class="wp-image-223"/><figcaption>
+						</figcaption></figure>
+</div></div>
+
+
+
+<div class="wp-block-group text-wrap is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p class="text text--download type--ff-sm">Download Zilla</p>
+</div></div>
+
+
+
+<p class="link has-white-color has-text-color">         <a href="https://mozilla.design/files/2019/06/Zilla-Slab.zip">Link</a>     </p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group asset is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-group thumbnail is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-large content"><img decoding="async" loading="lazy" width="1024" height="1024" src="http://blog.mozilla.org/design/files/2019/06/github-icon-logo-png-transparent-1024x1024.png" alt="" class="wp-image-1176" srcset="https://mozilla.design/files/2019/06/github-icon-logo-png-transparent-1024x1024.png 1024w, https://mozilla.design/files/2019/06/github-icon-logo-png-transparent-150x150.png 150w, https://mozilla.design/files/2019/06/github-icon-logo-png-transparent-300x300.png 300w, https://mozilla.design/files/2019/06/github-icon-logo-png-transparent-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div></div>
+
+
+
+<div class="wp-block-group text-wrap is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p class="text text--link type--ff-sm">Zilla on Github</p>
+</div></div>
+
+
+
+<p class="link has-white-color has-text-color">         <a href="https://github.com/mozilla/zilla-slab">Link</a>     </p>
+</div></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-group asset is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<div class="wp-block-group thumbnail is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<figure class="wp-block-image size-full content"><img decoding="async" loading="lazy" width="234" height="132" src="http://blog.mozilla.org/design/files/2019/06/Resources-zilla.png" alt="" class="wp-image-922"/><figcaption>						</figcaption></figure>
+</div></div>
+
+
+
+<div class="wp-block-group text-wrap is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p class="text text--link type--ff-sm">Zilla on Google Fonts</p>
+</div></div>
+
+
+
+<p class="link has-white-color has-text-color">         <a href="https://fonts.google.com/specimen/Zilla+Slab">Link</a>     </p>
+</div></div>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="has-h-lg-font-size wp-block-heading">Type Scale</h2>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Zilla Slab Bold for Headings as used on this website:</p>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-186 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-10 offset-none offset-lg-2 type-scale is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-184 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center text is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">
+<p class="has-h-xxl-font-size">Heading – XXL</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%">
+<p class="has-xs-font-size">Font size: 76px (4.75rem)<br>Line height: 76px (100%)</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-191 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-10 offset-none offset-lg-2 type-scale is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-189 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center text is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">
+<p class="has-h-xl-font-size">Heading – XL</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%">
+<p class="has-xs-font-size">Font size: 66px (4.125rem)<br>Line height: 66px (100%)</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-196 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-10 offset-none offset-lg-2 type-scale is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-194 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center text is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">
+<p class="has-h-lg-font-size">Heading – LG</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%">
+<p class="has-xs-font-size">Font size: 56px (3.5rem)<br>Line height: 56px (100%)</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-201 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-10 offset-none offset-lg-2 type-scale is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-199 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center text is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">
+<p class="has-h-md-font-size">Heading – MD</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%">
+<p class="has-xs-font-size">Font size: 48px (3rem)<br>Line height: 48px (100%)</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-206 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-10 offset-none offset-lg-2 type-scale is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-204 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center text is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">
+<p class="has-h-sm-font-size">Heading – SM</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%">
+<p class="has-xs-font-size">Font size: 38px (2.375rem)<br>Line height: 40px (105%)</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-211 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-10 offset-none offset-lg-2 type-scale is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-209 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center text is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">
+<p class="has-h-xs-font-size">Heading – XS</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%">
+<p class="has-xs-font-size">Font size: 28px (1.75rem)<br>Line height: 30px (107%)</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-216 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-10 offset-none offset-lg-2 type-scale is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-214 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center text is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">
+<p class="has-h-xxs-font-size">Heading – XXS</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%">
+<p class="has-xs-font-size">Font size: 24px (1.5rem)<br>Line height: 26px (108%)</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns row is-layout-flex wp-container-221 wp-block-columns-is-layout-flex">
+<div class="wp-block-column col-12 col-lg-10 offset-none offset-lg-2 type-scale is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-219 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center text is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">
+<p class="has-h-xxxs-font-size">Heading – XXXS</p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%">
+<p class="has-xs-font-size">Font size: 18px (1.125rem)<br>Line height: 20px (111%)</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+  </section>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+  </div>
+    <footer class="page-section page-section--site-footer site-footer" role="contentinfo">
+
+        <div class="container-fluid">
+
+          <div class="row row-1">
+            <div class="col-12 type--h-xxxs">
+              <a class="site-title" href="https://mozilla.design">Mozilla Dot Design</a>
+            </div>
+          </div>
+
+          <div class="row row-2">
+
+            <div class="col-lg-4 col-6 type--h-xxxs">
+
+              <ul id="menu-primary-navigation-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="https://mozilla.design/firefox/">Firefox Brand</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-234 current_page_item menu-item-256"><a href="https://mozilla.design/mozilla/" aria-current="page">Mozilla Brand</a></li>
+<li class="quick-links-toggle menu-item menu-item-type-custom menu-item-object-custom menu-item-2216"><a href="#">Quick Links</a></li>
+</ul>
+            </div>
+
+            <div class="col-lg-4 col-6 type--h-xxxs">
+              <div class="supplemental-menu">
+                <ul id="menu-footer-navigation" class="menu"><li id="menu-item-225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225"><a title="						" href="https://mozilla.org">mozilla.org</a></li>
+<li id="menu-item-226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-226"><a title="						" href="https://firefox.com">firefox.com</a></li>
+<li id="menu-item-227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227"><a title="						" href="https://careers.mozilla.org/">Careers</a></li>
+<li id="menu-item-228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228"><a title="						" href="https://twitter.com/firefox?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Twitter</a></li>
+<li id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-229"><a title="						" href="https://www.instagram.com/firefox/">Instagram</a></li>
+<li id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a title="						" href="https://github.com/mozilla">Github</a></li>
+</ul>              </div>
+            </div>
+
+            <div class="col-lg-4 col-12 ml-auto">
+              <div class="legal type--sm type--mb-xs">
+                                                    <noscript>
+                    <img src="https://mozilla.design/files/2019/05/mozilla-black.svg" alt="" />
+                  </noscript>
+                  <img class="lazyload" data-src="https://mozilla.design/files/2019/05/mozilla-black.svg" data-srcset="" alt="" />
+                                <p><a href="https://www.mozilla.org/en-US/privacy/">Privacy</a> <a href="https://www.mozilla.org/en-US/privacy/websites/#cookies">Cookies</a> <a href="https://www.mozilla.org/en-US/about/legal/">Legal</a></p>
+<p>Visit Mozilla Corporation’s not-for-profit parent,  the <a style="text-decoration: underline" href="https://foundation.mozilla.org/en/">Mozilla Foundation</a>. Portions of this content are ©1998–2019 by individual mozilla.org contributors. Content available under a Creative Commons license.</p>
+<p>Please refer to our <a style="text-decoration: underline" href="https://www.mozilla.org/en-US/foundation/trademarks/policy/">trademark policy</a> regarding usage of Mozilla wordmarks and logos.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+    </footer>
+  </div>
+</div>
+
+    <style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-2.wp-container-2,.wp-container-5.wp-container-5,.wp-container-7.wp-container-7,.wp-container-9.wp-container-9,.wp-container-12.wp-container-12,.wp-container-14.wp-container-14,.wp-container-17.wp-container-17,.wp-container-19.wp-container-19,.wp-container-21.wp-container-21,.wp-container-23.wp-container-23,.wp-container-25.wp-container-25,.wp-container-28.wp-container-28,.wp-container-31.wp-container-31,.wp-container-33.wp-container-33,.wp-container-36.wp-container-36,.wp-container-49.wp-container-49,.wp-container-53.wp-container-53,.wp-container-56.wp-container-56,.wp-container-59.wp-container-59,.wp-container-62.wp-container-62,.wp-container-65.wp-container-65,.wp-container-68.wp-container-68,.wp-container-71.wp-container-71,.wp-container-74.wp-container-74,.wp-container-77.wp-container-77,.wp-container-80.wp-container-80,.wp-container-83.wp-container-83,.wp-container-85.wp-container-85,.wp-container-88.wp-container-88,.wp-container-90.wp-container-90,.wp-container-93.wp-container-93,.wp-container-95.wp-container-95,.wp-container-98.wp-container-98,.wp-container-100.wp-container-100,.wp-container-104.wp-container-104,.wp-container-107.wp-container-107,.wp-container-110.wp-container-110,.wp-container-113.wp-container-113,.wp-container-116.wp-container-116,.wp-container-118.wp-container-118,.wp-container-120.wp-container-120,.wp-container-123.wp-container-123,.wp-container-126.wp-container-126,.wp-container-129.wp-container-129,.wp-container-131.wp-container-131,.wp-container-135.wp-container-135,.wp-container-139.wp-container-139,.wp-container-142.wp-container-142,.wp-container-146.wp-container-146,.wp-container-148.wp-container-148,.wp-container-150.wp-container-150,.wp-container-153.wp-container-153,.wp-container-156.wp-container-156,.wp-container-158.wp-container-158,.wp-container-161.wp-container-161,.wp-container-163.wp-container-163,.wp-container-166.wp-container-166,.wp-container-181.wp-container-181,.wp-container-184.wp-container-184,.wp-container-186.wp-container-186,.wp-container-189.wp-container-189,.wp-container-191.wp-container-191,.wp-container-194.wp-container-194,.wp-container-196.wp-container-196,.wp-container-199.wp-container-199,.wp-container-201.wp-container-201,.wp-container-204.wp-container-204,.wp-container-206.wp-container-206,.wp-container-209.wp-container-209,.wp-container-211.wp-container-211,.wp-container-214.wp-container-214,.wp-container-216.wp-container-216,.wp-container-219.wp-container-219,.wp-container-221.wp-container-221{flex-wrap:nowrap;}
+</style>
+<script type='text/javascript' src='https://mozilla.design/wp-content/themes/mozilla.design.2021/assets/js/index-debug.js?ver=1686919483' id='script-js'></script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'96036c9de83ef0aa',t:'MTc1MjY4OTA5MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
